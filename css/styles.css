@@ -59,6 +59,10 @@ button {
   letter-spacing: 0.02em;
   color: #434455;
 }
+.addr-link:hover,
+.addr-link:focus {
+  color: #404bbf;
+}
 /* #endregion heder */
 
 /* #region hero */
