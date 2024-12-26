@@ -113,6 +113,9 @@ button {
 .team {
   background-color: #f4f4fd;
 }
+.team-fons {
+  background-color: #ffffff;
+}
 .team-group {
   font-weight: 700;
   font-size: 36px;
