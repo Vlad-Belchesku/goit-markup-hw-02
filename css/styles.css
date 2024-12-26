@@ -111,7 +111,7 @@ button {
 
 /* #region our team */
 .team {
- background-color: #FFFFFF
+  background-color: #ffffff;
 }
 .team-group {
   font-weight: 700;
@@ -141,7 +141,6 @@ button {
 
 /* #region our portfolio */
 .portfolio-title {
-  text-transform: capitalize
   font-weight: 700;
   font-size: 36px;
   line-height: 1.11;
@@ -157,7 +156,7 @@ button {
   color: #2e2f42;
 }
 .apps {
-font-weight: 400;
+  font-weight: 400;
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
